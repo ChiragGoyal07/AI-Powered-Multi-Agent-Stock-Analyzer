@@ -85,14 +85,3 @@ The **Team Lead Agent** will:
 🔹 **Enhance stock trend predictions** with time-series forecasting.  
 🔹 **Integrate Bloomberg or alternative financial APIs.**  
 🔹 **Improve UI/visualization for financial insights.**  
-
----
-
-## ⭐ **Let's Connect!**
-📩 Feel free to reach out for collaboration or suggestions!  
-🔗 **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
-🔗 **GitHub:** [@your-username](https://github.com/your-username)  
-
----
-
-This **README** ensures your project looks **professional, easy to understand**, and **technically sound**, making it **resume-ready for GitHub linking!** 🚀 Let me know if you want any tweaks!
